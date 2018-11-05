@@ -7,6 +7,12 @@
     <mapping directory="$PROJECT_DIR$/vendor/doctrine/instantiator" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vendor/fzaninotto/faker" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vendor/guzzlehttp/psr7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/kartik-v/yii2-field-range" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/kartik-v/yii2-helpers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/kartik-v/yii2-krajee-base" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/kartik-v/yii2-widget-activeform" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/kartik-v/yii2-widget-spinner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/kartik-v/yii2-widget-touchspin" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vendor/myclabs/deep-copy" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vendor/phar-io/manifest" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vendor/phpspec/php-diff" vcs="Git" />
