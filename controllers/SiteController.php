@@ -81,7 +81,6 @@ class SiteController extends Controller
        $model = new Ads();
 
        if( $model->parse() ){
-        //if( true ){
             Yii::$app->session->setFlash('success', 'Parse success');
         } else {
             Yii::$app->session->setFlash('error', 'Parse error');
