@@ -5,7 +5,10 @@
     <mapping directory="$PROJECT_DIR$/vendor/cebe/markdown" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vendor/codeception/base" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vendor/doctrine/instantiator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/electrolinux/phpquery" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vendor/fzaninotto/faker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/guzzlehttp/promises" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vendor/guzzlehttp/psr7" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vendor/kartik-v/yii2-field-range" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vendor/kartik-v/yii2-helpers" vcs="Git" />

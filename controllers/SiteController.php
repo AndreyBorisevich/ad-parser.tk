@@ -78,7 +78,16 @@ class SiteController extends Controller
      */
     public function actionParse()
     {
+       $model = new Ads();
 
+       if( $model->parse() ){
+        //if( true ){
+            Yii::$app->session->setFlash('success', 'Parse success');
+        } else {
+            Yii::$app->session->setFlash('error', 'Parse error');
+        }
+
+        return $this->redirect(['index']);
     }
 
 

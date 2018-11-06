@@ -73,6 +73,9 @@
       <path value="$PROJECT_DIR$/vendor/kartik-v/yii2-field-range" />
       <path value="$PROJECT_DIR$/vendor/kartik-v/yii2-widget-touchspin" />
       <path value="$PROJECT_DIR$/vendor/kartik-v/yii2-widget-spinner" />
+      <path value="$PROJECT_DIR$/vendor/electrolinux/phpquery" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="5.4.0" />
